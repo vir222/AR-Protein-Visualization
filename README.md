@@ -1,5 +1,6 @@
 # AR Protein Visualization 🧬🥽
 ### Interactive Augmented Reality Tool for Molecular Protein Analysis — Microsoft HoloLens 2  Demo: https://drive.google.com/file/d/1181-3MwVsF9L0xt8dHL69zmiwIWbDjuT/view?usp=sharing
+<img width="1304" height="729" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/2f37af0f-f7c3-4d37-b37b-c407026f6aa2" />
 
 Built during a summer research internship at **WINLAB, Rutgers University**, this project enables researchers to visualize and interact with 3D molecular protein structures in augmented reality using the Microsoft HoloLens 2. Proteins are pulled directly from the Rutgers Protein Data Bank, parsed into structured data, and rendered interactively in Unity.
 
